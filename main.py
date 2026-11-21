@@ -1,3 +1,10 @@
+"""Write the poem about permission to /output/entry.txt.
+
+The poem is about agency: the power to ask and to be given. A speaker
+places a sparrow in someone's open hands and asks them not to close them;
+the gift turns out to be not the bird, but the right to open them.
+"""
+
 import os
 
 POEM = """Permission
